@@ -37,3 +37,10 @@ json-server
 Reactotron
 
 VS Code com EditorConfig e ESLint
+## Para iniciar o projeto
+
+Para instalatar todas as dependências: yarn 
+
+Para iniciar o server: json-server server.json -p 3333
+
+Iniciar o aplicativo: yarn start

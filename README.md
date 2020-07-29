@@ -1,6 +1,3 @@
 React RocketShoes
 
-<p align="center">
-  <img src="C:\Users\Maykon\Pictures\rocketshoes.jpg" width="350" title="hover text">
-  <img src="C:\Users\Maykon\Pictures\rocketshoes.jpg" width="350" alt="accessibility text">
-</p>
+![rocketshoes](https://user-images.githubusercontent.com/33705104/88815221-79136a00-d191-11ea-9851-7f3219468f08.jpg)

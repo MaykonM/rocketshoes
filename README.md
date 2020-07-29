@@ -38,7 +38,7 @@ Reactotron
 
 ## Para iniciar o projeto
 
-Para instalatar todas as dependências: yarn 
+Para instalatar todas as dependências: yarn install
 
 Para iniciar o server: json-server server.json -p 3333
 

@@ -5,6 +5,7 @@
 ![rocketshoes_carrinho](https://user-images.githubusercontent.com/33705104/88817196-99dcbf00-d193-11ea-96d6-89386c36634d.jpg)
 
 Este projeto possue as tecnologias:
+
 ReactJS
 Redux
 Redux-Saga

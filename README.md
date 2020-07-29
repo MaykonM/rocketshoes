@@ -36,7 +36,6 @@ json-server
 
 Reactotron
 
-VS Code com EditorConfig e ESLint
 ## Para iniciar o projeto
 
 Para instalatar todas as dependências: yarn 
